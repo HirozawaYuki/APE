@@ -7,3 +7,7 @@ Aruduino IDEプログラムは除外
 システムの最終目的
 　農業に対する知識がないが、庭等で植物を育ててみたい人たちのサポートができること。
 
+
+実行方法
+$ javac -encoding UTF-8 Ape.java
+$ java Ape
